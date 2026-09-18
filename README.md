@@ -4,7 +4,7 @@ A full-stack, decoupled Book Management application built using the MERN stack (
 
 This repository was created to demonstrate a production-ready, modular layered architecture, clean code practices, and RESTful API integration.
 
-## 🚀 Purpose & Features
+## Purpose & Features
 
 * **Full CRUD Operations:** Create, read, update, and delete book entries with real-time feedback.
 * **Decoupled Architecture:** Strict separation between the backend API and frontend client.
@@ -12,14 +12,14 @@ This repository was created to demonstrate a production-ready, modular layered a
 * **Type Safety:** Built entirely with end-to-end TypeScript interfaces.
 * **Containerized Database:** Local development powered by Dockerized MongoDB.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend:** React, TypeScript, Vite, Axios
 * **Backend:** Node.js, Express.js, TypeScript, Mongoose
 * **Database:** MongoDB (via Docker container)
 * **API Architecture:** RESTful API with JSON payload
 
-## 📁 Project Architecture
+## Project Architecture
 
 ```text
 mern-book-crud/
